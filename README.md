@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sai Vivek Reddy</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h3 align="center">A Passionate Full Stack Developer</h3>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2361e682f29dd5165f3a6ee20019ec078041b1577d3280af7c86e53178cdf5da/68747470733a2f2f616d70726f6e2e65752f77702d636f6e74656e742f75706c6f6164732f323031392f30312f636f64652d646576656c6f7065722e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saivivek10&label=Profile%20views&color=0e75b6&style=flat" alt="saivivek10" /> </p>
 
